@@ -1,10 +1,10 @@
 #Lucas-Ibarra
 <h1 align="center">Hi 👋, I'm Lucas Ibarra</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Argentina</h3>
 
 - 🔭 I’m currently working on **coder-project**
 
-- 🌱 I’m currently learning **html and css**
+- 🌱 I’m currently learning **Full Stack Developer**
 
 - 💬 Ask me about **music and movies**
 
